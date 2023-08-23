@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="" alt="img-logo" style="width:300px; height:250px;" />
+  <img src="./img/logo.png" alt="img-logo" style="width:300px; height:250px;" />
 
   &#xa0;
 
@@ -20,7 +20,6 @@
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-clonando-o-repositório">Clonando o Repositório</a> &#xa0; | &#xa0;
-
   <a href="https://github.com/Pedrinhonitz" target="_blank">Autor</a>
 </p>
 
